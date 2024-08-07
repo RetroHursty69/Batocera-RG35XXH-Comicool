@@ -1,0 +1,9 @@
+<theme>
+   <formatVersion>7</formatVersion>
+   
+   <view name="system">
+      <image name="background65" extra="true">               
+         <path>./_inc/box.png</path>         
+      </image>  
+   </view>      
+    </theme>
